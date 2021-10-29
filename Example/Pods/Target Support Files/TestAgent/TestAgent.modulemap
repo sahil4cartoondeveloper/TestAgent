@@ -1,0 +1,6 @@
+framework module TestAgent {
+  umbrella header "TestAgent-umbrella.h"
+
+  export *
+  module * { export * }
+}

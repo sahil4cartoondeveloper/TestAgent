@@ -1,0 +1,16 @@
+PODS:
+  - TestAgent (0.1.0)
+
+DEPENDENCIES:
+  - TestAgent (from `../`)
+
+EXTERNAL SOURCES:
+  TestAgent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestAgent: 0400b9359ef9c5dbb2abca46d3b8e07b19210c0c
+
+PODFILE CHECKSUM: 7d25d57fc5ffa8dae2bc611695ca436d086789a7
+
+COCOAPODS: 1.11.2
