@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'TestAgent_Example' do
+  pod 'TestAgent', :path => '../'
+
+  target 'TestAgent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
